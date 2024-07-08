@@ -9,4 +9,3 @@ def find_peak(list_of_integers):
         if max_ele is None or max_ele < element:
             max_ele = element
     return max_ele
-    
